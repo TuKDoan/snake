@@ -1,2 +1,6 @@
 # snake
-A simple browser game of snake
+A simple browser game of space invaders
+
+### Screenshot
+
+![frames](snake.gif)
